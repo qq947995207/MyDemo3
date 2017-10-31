@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿新增了bbb.txt文件
 update bbb.txt
 add public void aa();
 add public void q();
+=======
+新增了bbb.txt文件
+>>>>>>> parent of 646f00d... 修改了bbb.txt文件
